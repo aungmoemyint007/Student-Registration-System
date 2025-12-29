@@ -1,4 +1,6 @@
-# Student Management System
+# Student Management System with Java 
+
+second year secound sem project 
 
 A Java desktop application built using Java SE, Swing GUI, and SQLite3 for managing student registrations, academic records, and administrative tasks. Developed using NetBeans IDE.
 
